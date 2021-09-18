@@ -1,0 +1,2 @@
+My Database name is dbo instead of EmployeeDB
+You can find it it this folder (dbo.sql)
